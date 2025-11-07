@@ -2,8 +2,7 @@
 
 | Date       | Task Description                                   | Time Spent | Comments |
 |-----------|---------------------------------------------------|------------|---------|
-| 07.11.2025 | Created GitHub repository and initialized README | 10 min  | Repository is public for teacher access |
-| 07.11.2025 | Cloned repository to local computer              | 10 min     | Verified the repo downloaded correctly |
-| 07.11.2025 | Created logbook.md file using template           | 15 min     | Added initial table structure |
-| 07.11.2025 | Added first logbook entries                       | 20 min     | Entered repository creation and setup tasks |
-| 07.11.2025 | Committed and pushed logbook.md to GitHub        | 10 min     | Checked on GitHub that entries are visible |
+| 05.11.2025 | Started reading module 1| 2 hr | completed intial exercise of module 1 |
+| 06.11.2025 | Started reading module 2 and 3   | 2 hr    | understanding the analyz of cyber attack and security vulnerability and exploits |
+| 07.11.2025 | Completed exam and mcq question module 2 and 3   |  4 hr  | Worked on tasks and learned protecting devices |
+| 07.11.2025 |   Working on module  4  | 2 hr| |
