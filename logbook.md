@@ -8,3 +8,8 @@
 | 07.11.2025 | 2 hr | Working on module  4  |Finished module exam and tasks |
 | 08.11.2025 | 1 hr | Working on module  5  |Finished module exam and tasks |
 | 09.11.2025 | 1 hr | Exam preparation and attend the exam   | Done with best |
+| 16.11.2025 | 2 hr | Watched the videos and understanding the description of each labs   | Done with best |
+|17.11.2025 | 2 hr | Done labs SQL Injection parts   | Understand how the SQL queries work |
+| 18.11.2025 | 2 hr |Worked on Authentication | Undertsand how 2FA verification need to check and apply in server |
+| 18.11.2025 | 2 hr |Worked on Access control vulnerability | Undertsood how admin functionality work|
+ 
