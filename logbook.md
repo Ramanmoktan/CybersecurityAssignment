@@ -12,4 +12,4 @@
 |17.11.2025 | 2 hr | Done labs SQL Injection parts   | Understand how the SQL queries work |
 | 18.11.2025 | 2 hr |Worked on Authentication | Undertsand how 2FA verification need to check and apply in server |
 | 18.11.2025 | 2 hr |Worked on Access control vulnerability | Undertsood how admin functionality work|
- 
+| 28/11/2025 | 6 hr |understanding report and writing  | Finished writing report and completed phase 1 -part 1 |
