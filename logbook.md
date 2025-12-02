@@ -13,3 +13,5 @@
 | 18.11.2025 | 2 hr |Worked on Authentication | Undertsand how 2FA verification need to check and apply in server |
 | 18.11.2025 | 2 hr |Worked on Access control vulnerability | Undertsood how admin functionality work|
 | 28/11/2025 | 6 hr |understanding report and writing  | Finished writing report and completed phase 1 -part 1 |
+|01.12.2025	 | 2 hr |Intro to the booking system phase 1 -> part 2 (recorded lecture)|	Ran both phase 1 and phase 2 in docker container|
+|02.12.2025  | 4 hr |Reporting findings and fixes to the development team	|Made a detailed report to the development regarding the new zap scan outcomes|
